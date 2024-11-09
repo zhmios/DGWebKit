@@ -1,0 +1,16 @@
+PODS:
+  - DGWebKit (0.1.0)
+
+DEPENDENCIES:
+  - DGWebKit (from `../`)
+
+EXTERNAL SOURCES:
+  DGWebKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DGWebKit: 324f166f2a4ab1164a247ddaa7e816d669ebd472
+
+PODFILE CHECKSUM: 2e6bfdf623ad8b462f70959598f00df850ff9043
+
+COCOAPODS: 1.16.2

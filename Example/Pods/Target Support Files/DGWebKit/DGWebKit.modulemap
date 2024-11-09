@@ -1,0 +1,6 @@
+framework module DGWebKit {
+  umbrella header "DGWebKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
