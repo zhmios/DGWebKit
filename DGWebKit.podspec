@@ -25,7 +25,7 @@ DGWebKit is a wrapper component for the WKWebView component, designed to provide
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Arron' => 'arronmark@gmail.com' }
-  s.source           = { :git => 'https://github.com/Milley/DGWebKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:zhmios/DGWebKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
